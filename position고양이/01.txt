@@ -1,0 +1,11 @@
+#box1  ->배경색 회색 
+	.box1_rel ->핑크색,부모 height:100%
+
+		absolute로 위치 잡기 
+
+		.box1_txt   ul>li*2
+				li>h1 main title
+				li> lorem
+
+		p.txt lorem
+		img.cat  
